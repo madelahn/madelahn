@@ -1,7 +1,7 @@
 ### 🐀✨
 
 Hi, I'm Madeline, a second-year student at University of Toronto! 
-I'm currently pursing a Computer Science specialist and minoring in Statistics and Religion.
+I'm currently pursing a Computer Science major and minoring in Statistics and Religion.
 
 
 #### Reach me here!
