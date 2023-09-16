@@ -9,8 +9,8 @@ I continuously look for ways I can leave a positive impact on the world using th
 Currently working with [UofT ITS](https://its.utoronto.ca/) as an Incident Response Analyst and as a Webmaster for [UTVAC](https://www.instagram.com/uoft_vac/?hl=en)!
 
 ---
-<a href="https://github.com/madelahn/"><img height=179 align="center" src="https://github-readme-stats.vercel.app/api?username=madelahn&show_icons=true&hide=stars&rank_icon=github&custom_title=⸜(*ˊᗜˋ*)⸝&theme=dracula&border_radius=0" /></a>
-<a href="https://github.com/madelahn/blanc"><img height=179 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madelahn&repo=blanc&theme=dracula&border_radius=0" /></a>
+<a href="https://github.com/madelahn/"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=madelahn&show_icons=true&hide=stars&rank_icon=github&custom_title=⸜(*ˊᗜˋ*)⸝&theme=dracula&border_radius=0" /></a>
+<a href="https://github.com/madelahn/blanc"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madelahn&repo=blanc&theme=dracula&border_radius=0" /></a>
 
 ---
 
