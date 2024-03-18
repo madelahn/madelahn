@@ -6,7 +6,7 @@ I'm pursing a Computer Science major with a focus in Web & Internet Technologies
 
 I continuously look for ways I can leave a positive impact on the world using the mediums I know and love the most. I'm mostly interested in learning more about data science, computational theory, and information security.
 
-Currently working with [UofT ITS](https://its.utoronto.ca/) as an Incident Response Analyst and as a Webmaster for [UTVAC](https://www.instagram.com/uoft_vac/?hl=en)!
+Currently working with [UofT ITS](https://its.utoronto.ca/) as an Incident Response Analyst and as a Webmaster for [UTVAC](https://www.instagram.com/uoft_vac/?hl=en); formerly a part of [UofT Blueprint](https://uoftblueprint.org/#/)!
 
 ---
 <a href="https://github.com/madelahn/"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=madelahn&show_icons=true&hide=stars&rank_icon=github&custom_title=⸜(*ˊᗜˋ*)⸝&theme=dracula&border_radius=0" /></a>
