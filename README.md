@@ -1,10 +1,10 @@
 # 🐀✨
 
-### Hi, I'm Madeline, a third-year student at University of Toronto! 
+### Hi, I'm Madeline!
 
-I'm pursing a Computer Science major with a focus in Web & Internet Technologies, while minoring in Statistics and Digital Humanities.
+I'm an undergraduate student at the University of Toronto, pursuing a Computer Science major with a focus in Web & Internet Technologies and minoring in Statistics and Digital Humanities.
 
-I continuously look for ways I can leave a positive impact on the world using the mediums I know and love the most. I'm mostly interested in learning more about data science, computational theory, and information security.
+I continuously look for ways I can leave a positive impact on the world using the mediums I know and love the most. I'm mostly interested in learning more about technology compliance and law, computational theory, and information security.
 
 Currently working with [UofT ITS](https://its.utoronto.ca/) as an Incident Response Analyst and as a Webmaster for [UTVAC](https://www.instagram.com/uoft_vac/?hl=en); formerly a part of [UofT Blueprint](https://uoftblueprint.org/#/)!
 
