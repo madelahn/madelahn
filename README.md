@@ -6,7 +6,7 @@ I'm an undergraduate student at the University of Toronto, pursuing a Computer S
 
 I continuously look for ways I can leave a positive impact on the world using the mediums I know and love the most. I'm mostly interested in learning more about technology compliance and law, computational theory, and information security.
 
-Currently working with [UofT ITS](https://its.utoronto.ca/) as an Incident Response Analyst and as a Webmaster for [UTVAC](https://www.instagram.com/uoft_vac/?hl=en); formerly a part of [UofT Blueprint](https://uoftblueprint.org/#/)!
+Currently working with [UofT's Information Technology Services](https://its.utoronto.ca/) as an Incident Response Analyst and as a Vice President for UofT's [Cybersecurity Student Association](https://www.instagram.com/uoftcssa/); formerly a part of [UofT Blueprint](https://uoftblueprint.org/#/)!
 
 ---
 <a href="https://github.com/madelahn/"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=madelahn&show_icons=true&hide=stars&rank_icon=github&custom_title=⸜(*ˊᗜˋ*)⸝&theme=dracula&border_radius=0" /></a>
