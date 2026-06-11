@@ -4,7 +4,7 @@
 
 ---
 
-I'm just a guy looks for ways to leave a positive impact on the world using the mediums I know and love the most. Right now, I'm most interested in blue team, OSINT, cyber/internet ethics, HCI, and data visualization. 
+I'm a guy looks for ways to leave a positive impact on the world using the mediums I know and love the most. Right now, I'm most interested in blue team, OSINT, cyber/internet ethics, HCI, and data visualization. 
 
 Currently an incident response analyst at [UofT ITS](https://its.utoronto.ca/) and game developer at [AnaphylactiK Studios](https://anaphylactik-studios.itch.io/peanut-and-dreadnought-killer-2003).
 
